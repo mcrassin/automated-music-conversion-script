@@ -1,0 +1,1 @@
+./printScript.sh | wc -l
